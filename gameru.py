@@ -2,7 +2,6 @@ import numpy as np
 arr, step = np.linspace(-6, 21, 60, endpoint=False, retstep=True)
 print(step)
 
-# dtype('int64')
 #print(np.uint8(-456))
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
