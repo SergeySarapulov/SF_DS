@@ -30,7 +30,6 @@ def random_predict(number: int = 1) -> int:
         else :
             lower_bound = predict_number + 1 # если искомое число больше середины интервала,
                                              #устанавливаем нижнюю границу интервала равной середине интервала увеличенную на 1
-    
     return count
 
 
