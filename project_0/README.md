@@ -35,7 +35,7 @@
 - READ.md - комментарии к проекту
 - код написан на Python 3.11.5
 
-:arrow_up:[исходный код размещен на гугл колаб](https://colab.research.google.com/drive/10rWW_SFspPlpSCkT5HMRvDTbMEIIDuAs?usp=sharing)
+:arrow_up:[исходный код размещен на Google colab](https://colab.research.google.com/drive/10rWW_SFspPlpSCkT5HMRvDTbMEIIDuAs?usp=sharing)
   
 :arrow_up:[к оглавлению](https://github.com/SergeySarapulov/SF_DS/blob/main/project_0/README.md#Оглавление)
 
