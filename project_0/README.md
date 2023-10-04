@@ -33,6 +33,7 @@
 - game.ipynb - код угадывания случайного числа, сохраненного в Jupyter Notebook.
 - game_v2.py - исходный код угадывания числа
 - READ.md - комментарии к проекту
+- код написан на Python 3.11.5
   
 :arrow_up:[к оглавлению](https://github.com/SergeySarapulov/SF_DS/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
