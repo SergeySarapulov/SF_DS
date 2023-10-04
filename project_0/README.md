@@ -34,6 +34,7 @@
 - game_v2.py - исходный код угадывания числа
 - READ.md - комментарии к проекту
 - код написан на Python 3.11.5
+:arrow_up:[исходный код размещен на гугл колаб](https://drive.google.com/file/d/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA/view?usp=sharing)
   
 :arrow_up:[к оглавлению](https://github.com/SergeySarapulov/SF_DS/blob/main/project_0/README.md#Оглавление)
 
